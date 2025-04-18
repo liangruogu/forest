@@ -1,5 +1,5 @@
 ---
-title: RL和人生
+title: Agent,RL and Life
 published: 2025-04-18
 description: 'Agent and RL'
 image: 'index.jpeg'
