@@ -1,11 +1,11 @@
 ---
-title: Agent,RL and Life
+title: Agent、Life and RL
 published: 2025-04-18
 description: 'Agent and RL'
 image: 'index.jpeg'
 tags: ["Talk"]
 category: '随谈'
-draft: true
+draft: false
 lang: 'zh_CN'
 ---
 
