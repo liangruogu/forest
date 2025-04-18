@@ -1,9 +1,44 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+更新于2025.4.18 
 
-::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Hello Hello ~ 0v0 欢迎来到这里
+## \#\# 关于我
+我是chul, 你也可以叫我楚威威~  
+
+
+(我特别喜欢这个名字，heihei)
+
+chul都喜欢什么/或者你可以和我聊什么
+
+### \#\#\# 计算机
++ 用uniapp开发过跨平台的种花家(课设项目)つ﹏⊂
++ 树莓派的爱好者 嘿 ~ 用它搭过网站、做过数据库顺带着还学了网络的知识
++ 杂七杂八学过很多语言，但是最喜欢 python 和 rust ~ (人生苦短我用python)
++ 相比于 c++ ugly的IDE我还是喜欢 rust 的logo (哈哈哈哈哈，太影响心情了)
++ 特别痴迷于Linux发行版(arch, nix, kali, debian, ubuntu) 都折腾过
++ 如果你也想，强烈推荐arch哦， hyprland、waybar、rofi一样也别少, 哈哈哈
++ 对了，我是 vim 的狂热爱好者😄 现在我就是在用 vim 哦
++ 其实我也一直很想入坑 Emacs 55, 但是vim实在是太棒了...
+
+### \#\#\# 爱好
++ 其实找到真正热爱的东西是很难的，之前一直以为喜欢学习，也许也只是因为接触久了
++ 吉他🎸、篮球🏀或多或少都会吧 (\*^_^\*)
++ 我不打很多游戏哦，可能有时候怀旧玩一玩小游戏吧~
++ 因为有点社恐 ┭┮﹏┭┮ 也没有信心打得很好
++ 其实我一直很想玩一些可以探知自我的游戏
++ 认识真实的自己是一件很漫长的事情呢
++ 我高中特别喜欢数学!!!几乎在高二就学完了微积分呢
++ 但大二以后接触数学比较少了 sad
+
+
+### \#\#\# 认知
++ 时刻保持平静是一生的修炼,很喜欢内心平静，一点点做事的感觉
++ 很喜欢在空教室里听课，一个人，真的很棒!
++ 没有人可以一直陪伴着我，只有自己可以
++ 内求才是答案，幻想他人帮助自己，只能是幻想
+
+### \#\# 关于博客
+博客不能当饭吃，哈哈哈哈哈，所以完全看个人心情哦~ 
+
+也许我会写一些简单的技术博客吧~
