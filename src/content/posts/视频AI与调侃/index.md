@@ -63,37 +63,29 @@ lang: 'zh_CN'
 
 
 ### 赛博朋克的雨夜街道(文生视频)
-<video controls>
-    <source src="./WanVideo_00003.mp4"></source>
-</video>
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1arLTzaE7Y&page=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" mute></iframe>
 
 ### 豪华屋内的女人在招手(图生视频)
 
-<video controls>
-    <source src="./WanVideo_00001.mp4"></source>
-</video>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1arLTzaEuY&page=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 
 ### 饼干1
 这两个生成的就莫名奇妙了，哈哈
 
-<video controls>
-    <source src="./饼干.mp4"></source>
-</video>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1EuLMzVELv&page=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 
 ### 饼干2
 
-<video controls>
-    <source src="./饼干2.mp4"></source>
-</video>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1arLTzaEVF&page=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 ### 梦幻小屋(图生视频)
 这是唯一一个漏洞不太大的
 
-<video controls>
-    <source src="./梦幻小屋.mp4"></source>
-</video>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1arLTzaE1K&page=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ### PS
 还有很多用即梦、可灵生成的，怪异的东东
