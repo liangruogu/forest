@@ -6,6 +6,7 @@ image: 'https://raw.githubusercontent.com/liangruogu/BlogImages/main/img/%E3%80%
 tags: ["日常", "反思"]
 category: '随笔'
 draft: false
+lang: 'zh_CN'
 ---
 
 ### 平衡
